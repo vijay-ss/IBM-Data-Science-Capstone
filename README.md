@@ -1,5 +1,5 @@
 # IBM-Data-Science-Capstone
-Contains project files used for the final capstone.
+Contains project files used for the final capstone project.
 
 # Overview
 This is a project which will analyze Toronto neighbourhood venues based on the Foursquare Developer API, with the intent of looking for a suitable location to open a fitness centre.
