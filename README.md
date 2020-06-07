@@ -9,8 +9,8 @@ The findings suggested that the financial district has little to no competition,
 ## File versions
 - Week 1-4 are preliminary data analysis files, found in the 'project_files' folder
 - The final files are included in the root directory and include the final pdf article and notebook:
-  - Final Code: Toronto Neighbourhood Clustering.pynb
-  - Final Report: Opening a New Fitness Centre in Toronto v1.pdf
+  - **Final Code**: Toronto Neighbourhood Clustering.pynb
+  - **Final Report**: Opening a New Fitness Centre in Toronto v1.pdf
 
 ### Prerequisites
  - Python 3.7
@@ -122,3 +122,5 @@ Additional exploration into Cluster 1 revealed that this area is the Financial D
 The results from this exploration can recommend current or future entrepreneurs to capitalize on these findings to open a new fitness centre within Cluster 1, tending towards the Downtown Core area of Bay & Richmond Street. The timing seems to be in favour as of March 2020, because there appears to be little to no competition.
 
 Further research could be conducted to determine whether operating costs are ideal given the location, as well as local customer interests and purchasing habits.
+
+Please refer to the Final Report pdf file for a more extensive walkthrough of the data and results.
