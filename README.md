@@ -1,5 +1,5 @@
 # Opening a New Fitness Centre in Toronto, Canada
-## An IBM Data Science Capstone Project
+### An IBM Data Science Capstone Project
 Contains project files used for the final capstone project.
 
 ## Overview
