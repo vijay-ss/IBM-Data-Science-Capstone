@@ -102,8 +102,23 @@ for lat, long, post, borough, neighbourhood in zip(tdot['Latitude'], tdot['Longi
 
 The final step is the perform a clustering machine learning algorithm on the transformed data. In this case, the best algorithm to use is the k-means clustering method. This algorithm identifies a user-defined, k number of centroids, and and attempts to group similar data points towards a specific cluster based on its properties. A successful cluster is clearly visible and keeps the distance between the centroid and data point at a minimum.
 
-![](images/figure_1.png)
-
 In this case, we specified 5 k-clusters from which to determine which neighbourhoods have nearby attractions, already have gyms and overall appear to be suitable for a gym.
 
 ![](images/figure_4.png)
+
+#### Examine Clusters
+
+After examining the 5 k clusters, it was determined that Cluster 1 (Downtown Toronto) seems to be most optimal due to the plethora of local venues compared to the other 4 clusters.
+
+![](images/figure_3.png)
+
+Additional exploration into Cluster 1 revealed that this area is the Financial District, and has no local fitness centres.
+
+![](images/figure_1.png)
+
+
+## Final Thoughts
+
+The results from this exploration can recommend current or future entrepreneurs to capitalize on these findings to open a new fitness centre within Cluster 1, tending towards the Downtown Core area of Bay & Richmond Street. The timing seems to be in favour as of March 2020, because there appears to be little to no competition.
+
+Further research could be conducted to determine whether operating costs are ideal given the location, as well as local customer interests and purchasing habits.
