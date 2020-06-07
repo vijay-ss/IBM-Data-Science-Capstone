@@ -4,7 +4,9 @@ Contains project files used for the final capstone project.
 
 ## Overview
 
-With the popularity of fitness centres and gyms on the rise in recent years, a lucrative business opportunity exists for those seeking to open one of their own in Toronto, Canada. This research project examined the ideal location to open a fitness centre in Toronto, based on characteristics within local neighbourhoods. Neighbourhood data was extracted from Wikipedia, neighbourhood data was pulled using the Foursquare Develop API, and transformed in such a way to create 5 clusters for the k-Means Clustering machine learning algorithm. Results showed that Downtown Toronto has the most local venues for which consider when opening the business. The findings suggested that the financial district has little to no competition, which might yield the most success for the business venture.
+With the popularity of fitness centres and gyms on the rise in recent years, a lucrative business opportunity exists for those seeking to open one of their own in Toronto, Canada. This research project examined the ideal location to open a fitness centre in Toronto, based on characteristics within local neighbourhoods. Neighbourhood data was extracted from Wikipedia, neighbourhood data was pulled using the Foursquare Develop API, and transformed in such a way to create 5 clusters for the k-Means Clustering machine learning algorithm. Results showed that Downtown Toronto has the most local venues for which consider when opening the business. 
+
+The findings suggested that the financial district has little to no competition, which might yield the most success for the business venture.
 
 ## File versions
 - Week 1-4 are preliminary data analysis files, found in the 'project_files' folder
