@@ -1,6 +1,6 @@
 # Opening a New Fitness Centre in Toronto, Canada
 
-Link to research papar: https://drive.google.com/file/d/1Sih4RhiaF3roJFEUEUkl53fflQDEmHpi/view?usp=sharing
+Link to research paper: https://drive.google.com/file/d/1Sih4RhiaF3roJFEUEUkl53fflQDEmHpi/view?usp=sharing
 
 ## Overview
 
