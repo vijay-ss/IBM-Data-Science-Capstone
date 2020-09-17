@@ -1,5 +1,7 @@
 # Opening a New Fitness Centre in Toronto, Canada
 
+Link to research papar: https://drive.google.com/file/d/1Sih4RhiaF3roJFEUEUkl53fflQDEmHpi/view?usp=sharing
+
 ## Overview
 
 With the popularity of fitness centres and gyms on the rise in recent years, a lucrative business opportunity exists for those seeking to open one of their own in Toronto, Canada. This research project examined the ideal location to open a fitness centre in Toronto, based on characteristics within local neighbourhoods. Neighbourhood data was extracted from Wikipedia, neighbourhood data was pulled using the Foursquare Develop API, and transformed in such a way to create 5 clusters for the k-Means Clustering machine learning algorithm. Results showed that Downtown Toronto has the most local venues for which consider when opening the business. 
